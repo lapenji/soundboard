@@ -3,7 +3,8 @@ import Button from '../Button/Button';
 import martellone from './sounds/martellone.mp3';
 import patapum from './sounds/patapum.mp3';
 import quark from './sounds/quark.mp3';
-import sadtrombone from './sounds/sadtrombone.mp3'
+import sadtrombone from './sounds/sadtrombone.mp3';
+import ambulanza from './sounds/ambulanza.mp3'
 
 const Board = () => {
     const sounds = [
@@ -11,6 +12,7 @@ const Board = () => {
         {id: 2, name: 'atapum', char: 'P', src: patapum},
         {id: 3, name: 'ad trombone', char: 'S', src: sadtrombone},
         {id: 4, name: 'uark', char: 'Q', src: quark},
+        {id: 5, name: 'mbulanza', char:'A', src: ambulanza}
     ]
     
     const boardStyle= {
