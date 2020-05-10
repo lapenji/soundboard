@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/soundbar/static/css/main.5d63e73e.chunk.css",
+    "main.js": "/soundbar/static/js/main.cb9e3d25.chunk.js",
+    "main.js.map": "/soundbar/static/js/main.cb9e3d25.chunk.js.map",
+    "runtime-main.js": "/soundbar/static/js/runtime-main.262b97eb.js",
+    "runtime-main.js.map": "/soundbar/static/js/runtime-main.262b97eb.js.map",
+    "static/js/2.610f527d.chunk.js": "/soundbar/static/js/2.610f527d.chunk.js",
+    "static/js/2.610f527d.chunk.js.map": "/soundbar/static/js/2.610f527d.chunk.js.map",
+    "index.html": "/soundbar/index.html",
+    "precache-manifest.71b067db9feefcfb3aaf18a6e988264e.js": "/soundbar/precache-manifest.71b067db9feefcfb3aaf18a6e988264e.js",
+    "service-worker.js": "/soundbar/service-worker.js",
+    "static/css/main.5d63e73e.chunk.css.map": "/soundbar/static/css/main.5d63e73e.chunk.css.map",
+    "static/js/2.610f527d.chunk.js.LICENSE.txt": "/soundbar/static/js/2.610f527d.chunk.js.LICENSE.txt",
+    "static/media/martellone.mp3": "/soundbar/static/media/martellone.1b35738e.mp3",
+    "static/media/patapum.mp3": "/soundbar/static/media/patapum.b3a284d0.mp3",
+    "static/media/quark.mp3": "/soundbar/static/media/quark.f7c40d63.mp3",
+    "static/media/sadtrombone.mp3": "/soundbar/static/media/sadtrombone.69d3ca94.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.262b97eb.js",
+    "static/js/2.610f527d.chunk.js",
+    "static/css/main.5d63e73e.chunk.css",
+    "static/js/main.cb9e3d25.chunk.js"
+  ]
+}
