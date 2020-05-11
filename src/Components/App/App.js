@@ -7,13 +7,12 @@ const App = () => {
     margin: '0 auto',
     textAlign: 'center',
     height: '80vh',
-    display: 'grid',
-    gridTemplatecClumns: '1fr',
-    gridTemplateRows: '0.5fr 1.5fr 0.1fr',
-    gridTemplateAreas: '"." "." "."' 
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center'
   }
   const h1Style = {
-    fontSize: '120px',
+    fontSize: '100px',
     letterSpacing: '-3px'
   }
 

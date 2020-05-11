@@ -18,11 +18,11 @@ const Board = () => {
     ]
     
     const boardStyle= {
-        height: '200px',
+        width: '100%',
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
-        marginTop: '5%',
+        
         flexWrap: 'wrap'
     }
     const suoni = sounds.map(item => {
