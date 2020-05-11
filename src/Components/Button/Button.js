@@ -7,7 +7,7 @@ const Div = styled.div`
     width: 100px;
     border: 0;
     outline: 0;
-    margin: 10px;
+    margin: 15px;
     box-shadow: 0px 5px 10px ;
     -webkit-transition: all 0.3s;
     transition: all 0.3s;

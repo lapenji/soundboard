@@ -22,7 +22,7 @@ const Board = () => {
         display: 'flex',
         justifyContent: 'center',
         alignItems: 'center',
-        marginTop: '10%',
+        marginTop: '5%',
         flexWrap: 'wrap'
     }
     const suoni = sounds.map(item => {
