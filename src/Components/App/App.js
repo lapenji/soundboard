@@ -5,8 +5,6 @@ const App = () => {
   const containerStyle = {
     width: '80%',
     margin: '50px auto 0',
-    border: '3px solid black',
-    borderRadius: '30px',
     textAlign: 'center',
     height: '80vh',
     display: 'grid',
