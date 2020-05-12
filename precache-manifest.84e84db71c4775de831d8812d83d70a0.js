@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c0d18e3d39a3bec5b4ab0fc513f6a1e",
+    "revision": "29326cc1f06b90ac871a48cfd33741a1",
     "url": "/soundboard/index.html"
   },
   {
-    "revision": "e93940b413740a313c4d",
+    "revision": "d9a221b7ac93cb02e62c",
     "url": "/soundboard/static/css/main.e6447bd3.chunk.css"
   },
   {
-    "revision": "53db2fef297d5ae22247",
-    "url": "/soundboard/static/js/2.7e2cabee.chunk.js"
+    "revision": "f313db4b039c1d636391",
+    "url": "/soundboard/static/js/2.7c01dc20.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/soundboard/static/js/2.7e2cabee.chunk.js.LICENSE.txt"
+    "url": "/soundboard/static/js/2.7c01dc20.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e93940b413740a313c4d",
-    "url": "/soundboard/static/js/main.c4e2ddcc.chunk.js"
+    "revision": "d9a221b7ac93cb02e62c",
+    "url": "/soundboard/static/js/main.30494b1c.chunk.js"
   },
   {
     "revision": "291a4d5fff99384a8d54",
@@ -28,12 +28,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/soundboard/static/media/ambulanza.499d3e86.mp3"
   },
   {
+    "revision": "23f9cf4454ca3d58241cb5d1e8407093",
+    "url": "/soundboard/static/media/aria.23f9cf44.mp3"
+  },
+  {
     "revision": "1b35738edf3e1dc4c5d7608590e1b5b5",
     "url": "/soundboard/static/media/martellone.1b35738e.mp3"
   },
   {
     "revision": "fbe109a5b35136ac996d3108d1172981",
     "url": "/soundboard/static/media/milionario.fbe109a5.mp3"
+  },
+  {
+    "revision": "1ae60df5ea30ed8088ed5a9737790b23",
+    "url": "/soundboard/static/media/pappagalli.1ae60df5.mp3"
   },
   {
     "revision": "b3a284d0a4a216b4b0d8f395d3fe89a0",
